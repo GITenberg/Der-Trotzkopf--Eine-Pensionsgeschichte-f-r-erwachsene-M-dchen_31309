@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35142
     wikipedia: http://de.wikipedia.org/wiki/Emmy_von_Rhoden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31309#Der-Trotzkopf--Eine-Pensionsgeschichte-f-r-erwachsene-M-dchen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2010-02-17'
 gutenberg_type: Text
