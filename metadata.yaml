@@ -1,0 +1,33 @@
+_repo: Der-Trotzkopf--Eine-Pensionsgeschichte-f-r-erwachsene-M-dchen_31309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhoden, Emmy von
+    aliases:
+    - Friedrich, Emmy Friederike Charlotte Kuhne
+    - Friedrich, Emmy Friederike Charlotte Kühne
+    - Von Rhoden, Emmy
+    birthdate: 1832
+    deathdate: 1885
+    gutenberg_agent_id: '35142'
+    url: http://www.gutenberg.org/2009/agents/35142
+    wikipedia: http://de.wikipedia.org/wiki/Emmy_von_Rhoden
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31309'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Middle class -- Germany -- Juvenile fiction'
+title: 'Der Trotzkopf: Eine Pensionsgeschichte für erwachsene Mädchen'
+url: http://www.gutenberg.org/ebooks/31309
